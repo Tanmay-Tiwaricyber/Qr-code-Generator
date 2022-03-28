@@ -1,6 +1,8 @@
 # QR Code Generator
 
 # made with ❤️ by Silent programmer
+<img src = "https://github.com/Tanmay-Tiwaricyber/Qr-code-Generator/mywebsite.png" alt=website qrcode> </img>
+
 
 Open this in Browser(Chrome, Microsoft Edge, FireFox, DuckDuckGo).
 
