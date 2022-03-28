@@ -1,7 +1,7 @@
 # QR Code Generator
 
 # made with ❤️ by Silent programmer
-<img src = "https://github.com/Tanmay-Tiwaricyber/Qr-code-Generator/my website .png" alt=website qrcode>
+<img src = "https://github.com/Tanmay-Tiwaricyber/Qr-code-Generator/blob/main/my website .png" alt=website qrcode>
 
 
 
